@@ -20,7 +20,7 @@ Installation and Setup
     ```bash
     npm install
     ```
-- Create new realtime database in [Firebase](https://firebase.google.com/) and add the url in [Firebase.js](./src/components/Firebase.js)
+- Create new realtime database in [Firebase](https://firebase.google.com/) and add the url in [/src/components/Firebase.js](./src/components/Firebase.js)
 
 - Start the server
     ```bash
